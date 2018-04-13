@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "HotDogTruck.data.unityweb",
+"asmCodeUrl": "HotDogTruck.asm.code.unityweb",
+"asmMemoryUrl": "HotDogTruck.asm.memory.unityweb",
+"asmFrameworkUrl": "HotDogTruck.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
